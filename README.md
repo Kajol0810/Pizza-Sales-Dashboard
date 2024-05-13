@@ -27,6 +27,10 @@ Key performance indicators (KPIs) to analyze pizza sales data include:
 7. Bottom 5 Worst Sellers by Total Pizzas Sold: Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will 
    enable us to identify underperforming or less popular pizza options.
 
+
+
+https://github.com/Kajol0810/Pizza-Sales-Dashboard/assets/59485729/2141f25b-3402-486b-b050-801ecb554db9
+
 Findings:
 
  	1. Orders are highest on Fridays and Saturdays
