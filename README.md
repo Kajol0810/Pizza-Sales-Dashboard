@@ -1,4 +1,4 @@
-# pizza sales dashboard
+# Pizza Sales Dashboard
 Key performance indicators (KPIs) to analyze pizza sales data include:
 1. Total Revenue: The sum of the total price of all pizza orders.
 2. Average Order Value: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
